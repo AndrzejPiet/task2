@@ -6,3 +6,6 @@ number_items = []
 for k , v in dict_shoping.items () :
     print ("Ide do ", k.capitalize(), " aby kupić produkty : ",v )
     number_items.append(len(v))
+
+sum_items = sum(number_items)
+print( "W sumie kupuję", sum_items,  "produktów")
