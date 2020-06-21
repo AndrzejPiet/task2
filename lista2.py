@@ -12,4 +12,5 @@ print( "W sumie kupuję", sum_items,  "produktów")
 print ("ok")
 
 print("change in git hub")
+print ("change in git hub 2")
 
