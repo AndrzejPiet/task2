@@ -9,4 +9,4 @@ for k , v in dict_shoping.items () :
 
 sum_items = sum(number_items)
 print( "W sumie kupuję", sum_items,  "produktów")
-print("change in git hub")
+print("ok")
